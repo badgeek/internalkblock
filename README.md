@@ -1,6 +1,8 @@
 # macOS Keyboard Lock
 
-A simple utility to lock the internal keyboard on macOS while keeping external keyboards active. Useful when placing an external keyboard on top of your MacBook.
+A simple utility to lock the internal keyboard on macOS while keeping external keyboards active.
+
+Perfect for MacBook Pro users who stack a NuPhy or other compact mechanical keyboard on top of the built-in keyboard. Prevents accidental key presses from the internal keyboard when your external keyboard sits on top of it.
 
 ## Requirements
 
