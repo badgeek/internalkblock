@@ -1,8 +1,12 @@
 # macOS Keyboard Lock
 
+![NuPhy keyboard on MacBook Pro](img/screenshot.jpeg)
+
 A simple utility to lock the internal keyboard on macOS while keeping external keyboards active.
 
 Perfect for MacBook Pro users who stack a NuPhy or other compact mechanical keyboard on top of the built-in keyboard. Prevents accidental key presses from the internal keyboard when your external keyboard sits on top of it.
+
+A lightweight alternative to [Karabiner-Elements](https://karabiner-elements.pqrs.org/) if you only need to disable the internal keyboard.
 
 ## Requirements
 
